@@ -53,5 +53,5 @@ Por se tratar de um projeto real aplicado em contexto corporativo, o conjunto de
 
 ## Contato
 
-Desenvolvido por [Raquel Pinheiro](https://www.linkedin.com/in/raquel-s-pinheiro/)
-Mais projetos em: [github.com/raquel-pinheiro](https://github.com/raquel-pinheiro)
+Desenvolvido por [Raquel Pinheiro](https://www.linkedin.com/in/raquel-s-pinheiro/).
+Mais projetos em: [github.com/raquel-pinheiro](https://github.com/raquel-pinheiro).
