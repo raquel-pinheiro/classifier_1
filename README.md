@@ -40,6 +40,10 @@ Por se tratar de um projeto real aplicado em contexto corporativo, o conjunto de
 - Power BI (integração do resultado final)
 - DBT + Snowflake (no pipeline completo, fora do escopo deste repositório)
 
+## Dependências
+
+pip install -r requirements.txt
+
 ## Estrutura do Repositório
 
 <pre>
