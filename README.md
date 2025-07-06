@@ -42,12 +42,14 @@ Por se tratar de um projeto real aplicado em contexto corporativo, o conjunto de
 
 ## Estrutura do Repositório
 
-<pre> ```bash sales-opportunity-classifier/
+<pre>
+  ``` sales-opportunity-classifier/
   │
   ├── README.md
   ├── model_pipeline.py
   ├── requirements.txt
-  └── data_schema.md ``` </pre>
+  └── data_schema.md ```
+</pre>
 
 ## Contato
 
