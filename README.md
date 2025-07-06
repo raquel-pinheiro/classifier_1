@@ -42,12 +42,7 @@ Por se tratar de um projeto real aplicado em contexto corporativo, o conjunto de
 
 ## Estrutura do Repositório
 
-sales-opportunity-classifier/
-│
-├── README.md
-├── classifier_pipeline.py
-├── requirements.txt
-└── data_schema.md
+<pre> ``` sales-opportunity-classifier/ │ ├── README.md ├── model_pipeline.py ├── requirements.txt └── data_schema.md ``` </pre>
 
 ## Contato
 
