@@ -50,9 +50,9 @@ pip install -r requirements.txt
   sales-opportunity-classifier/
   │
   ├── README.md
+  ├── data_schema.md
   ├── model_pipeline.py
-  ├── requirements.txt
-  └── data_schema.md
+  └── requirements.txt
 </pre>
 
 ## Contato
